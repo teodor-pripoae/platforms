@@ -3,7 +3,7 @@
 # 2. Run `bazel build --experimental_enable_bzlmod //src:bazel_nojdk`.
 
 module(
-    name = "bazel",
+    name = "platforms",
     version = "6.0.0-pre",
     repo_name = "io_bazel",
 )
